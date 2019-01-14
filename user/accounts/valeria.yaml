@@ -1,0 +1,11 @@
+email: vale79211@gmail.com
+fullname: ValeriaA
+title: admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$EVGGpm/abN1GUpEh96QFV.ah2sHSiXCxkxQegujYr9CqHMO6pDgsq
